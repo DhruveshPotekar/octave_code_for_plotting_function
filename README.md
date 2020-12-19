@@ -7,7 +7,7 @@ Function is
 3D plot
 ![3D Plot](https://user-images.githubusercontent.com/74448981/102238954-5b665780-3f1c-11eb-8029-261f4c425589.png)
 
-conyour plot
+contour plot
 ![Contour Plot](https://user-images.githubusercontent.com/74448981/102238961-5e614800-3f1c-11eb-8f14-d5147f7c263e.png)
 
 
